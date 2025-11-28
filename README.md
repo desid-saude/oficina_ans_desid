@@ -2,13 +2,13 @@
 
 ## Sobre este repositório
 
-Este repositório contém os arquivos desenvolvidos como material prático para a **Oficina Bases de Dados TISS e DIOPS da ANS**, realizada em 28 de novembro de 2025 no Tribunal de Contas da União, em Brasília.
+Este repositório contém os arquivos desenvolvidos como material prático para a **Oficina Bases de Dados TISS e DIOPS da ANS**, realizada em 28 de novembro de 2025.
 
 ## Parceria DESID e ANS
 
 O material foi desenvolvido em parceria entre:
 
-- **DESID** (Departamento de Economia e Desenvolvimento em Saúde do Tribunal de Contas da União)
+- **DESID** (Departamento de Economia e Investimento em Saúde)
 - **ANS** (Agência Nacional de Saúde Suplementar)
 
 Essa colaboração visa construir capacidades perenes para análise de dados abertos em saúde suplementar, fortalecendo estudos sobre as relações público-privadas em saúde.
@@ -19,7 +19,7 @@ Os arquivos deste repositório implementam uma atividade prática da oficina:
 
 - **`TaxaCesarea.ipynb`** - Notebook original em Python
 - **`TaxaCesarea_R.ipynb`** - Mesmo notebook convertido para R
-- **`Ementa-Oficina-de-Dados-da-ANS.docx`** - Documentação completa da oficina
+- **`Tiss_descritivo_R.ipynb`** - Notebook com análises descritivas básicas a partir de amostra do TISS
 
 ## O que o código faz
 
@@ -48,8 +48,7 @@ Os dados utilizados são públicos e estão disponíveis em:
 ## Referências
 
 - Documentação técnica do TISS: Portal de Dados Abertos da ANS
-- Ementa da oficina: `Ementa-Oficina-de-Dados-da-ANS.docx`
 
 ---
 
-*Desenvolvido para a Oficina de Dados da ANS - DESID/TCU - Novembro de 2025*
+*Desenvolvido para a Oficina de Dados da ANS - DESID - Novembro de 2025*
